@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Besil Issac
-- 👀 I’m interested in Software Developing, Web Developing and Full-Stack Developing.
+- 👀 I’m interested in Software Developing, Data Analysis, Web Developing and Full-Stack Developing.
 - 🌱 I’m currently learning React.Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...issacbesil@gmail.com
